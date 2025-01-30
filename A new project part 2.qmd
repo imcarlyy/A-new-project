@@ -1,0 +1,9 @@
+---
+title: "My new project part 2"
+format: html
+editor: visual
+---
+
+# A new Project
+
+trying to do my first connection with Github and Rstudio. Lets see how it goes.
